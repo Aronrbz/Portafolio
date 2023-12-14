@@ -21,7 +21,7 @@ Para poder correr este proyecto necesitarás contar con lo siguiente:
 2. Ejecuta el siguiente comando para clonar el repositorio:
 
 ```bash
-git clone https://github.com/RobertoASF/Portafolio.git 
+git clone https://github.com/Aronrbz/Portafolio.git 
 ```
 
 3. Espera a que el proceso de clonación termine. Una vez finalizado, tendrás una copia del repositorio en tu sistema.
